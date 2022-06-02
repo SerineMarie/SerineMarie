@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi!👋
+I'm Serine, a 27 year old frontend developer from Norway.
 
+---
+## Skills
+--- TypeScript, JavaScript
+--- React, Next
+--- CSS, SCSS, Bootstrap, CSS Modules
+
+
+---
+## Contact
+-- @serinejor on Instagram
+-- [LinkedIn page](https://www.linkedin.com/in/serine-jorgensen-0742581b5/)
+--
 <!--
 **SerineMarie/SerineMarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
