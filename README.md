@@ -2,6 +2,7 @@
 I'm Serine, a 27 year old frontend developer from Norway.
 
 ## Skills
+-   HTML
 -   TypeScript, JavaScript
 -   React, Next
 -   CSS, SCSS, Bootstrap, CSS Modules
