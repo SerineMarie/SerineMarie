@@ -1,5 +1,5 @@
 ### Hi!👋
-I'm Serine, a 27 year old Front-End Developer from Norway. Currently job hunting 👨🏽‍💻
+I'm Serine, a 29 years old Front-End Developer from Norway. Currently job hunting 👨🏽‍💻
 
 ## Skills
 -   HTML
